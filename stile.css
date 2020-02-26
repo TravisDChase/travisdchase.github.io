@@ -1,3 +1,96 @@
+.The RedMoor {
+   text-align: center;
+}
+.text {
+  text-align: center;
+}
 H1 {
-  Color:gold;
+  Color:#900f2f;font-size:50px;font-weight: bold;
+}
+H2 {
+  font-size:30px; font-weight: 200;
+}
+H3 {
+  font-size: 30px; font-weight: 200;
+}
+H4 {
+  font-size: 30px; font-weight: 200;
+}
+H5 {
+  font-size:30px; font-weight: 200;
+}
+H6 {
+  font-size:30px; font-weight: 200;
+}
+H7 {
+  Color:#900f2f;font-size:50px;font-weight: bold;
+}
+H8 {
+  font-size:30px;
+}
+.intro{
+  font-size: 30px;
+}
+H9 {
+  font-size: 30px
+}
+H10 {
+  font-size: 30px
+}
+H11 {
+  font-size: 30px
+}
+H12 {
+  font-size: 30px
+}
+h13 {
+  color:#900f2f;font-size: 50px; font-weight: bold;
+}
+.Greek {
+  font-size: 30px
+}
+
+h15 {
+  font-size: 30px
+}
+h16 {
+  font-size: 30px
+}
+h18 {
+  color:#900f2f;font-size: 50px; font-weight: bold;
+}
+
+h19 {
+  font-size: 30px;
+}
+
+h20 {
+  font-size: 30px;
+}
+h21 {
+  font-size: 30px;
+}
+h22 {
+  font-size: 30px;
+}
+h23 {
+  font-size: 30px;
+}
+h24 {
+  font-size: 30px;
+}
+h25 {
+  font-size: 30px;
+}
+h26 {
+  color:#900f2f;font-size: 50px; font-weight: bold;
+}
+.western {
+  font-weight: 100;
+}
+.chicken {
+  border:1px dotted;
+  border-color:gray;
+  background: #d3dadb;
+  padding left: 25px;
 }
