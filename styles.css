@@ -1,3 +1,7 @@
-h1 {font-size: 36px;
-  color: blue;
-  }
+h1 {
+font-family: 'Arimo',sans-serif;
+}
+
+.georgia, .headingone, .headingtwo, .headingthree {
+font-family: 'PT Serif'; font-size: 13px;
+}
