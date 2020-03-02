@@ -1,7 +1,18 @@
-h1 {
-font-family: 'Arimo',sans-serif;
+<h1> {
+font-family: helvetica,sans-serif;
 }
 
-.georgia, .headingone, .headingtwo, .headingthree {
-font-family: 'PT Serif'; font-size: 13px;
+h5 {
+font-family: helvetica;font-size: 14pt;font-style: italic;
+}
+h6 {
+font-family: helvetica;font-size: 14pt;font-style: italic;
+}
+
+<p> {
+font-family: georgia, serif font-size: 13px;
+}
+#content {
+  margin:0;
+  width:740px; font-family:helvetica
 }
