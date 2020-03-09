@@ -19,6 +19,9 @@ h2 {
 #opening {
   text-align: center;
 }
+p {
+  text-align: center; padding-left: 30%; padding-right: 30%; font-size: 16px
+}
 .credit1 {
    color: grey
 }
@@ -28,4 +31,33 @@ h2 {
 
 .pic3 {
   text-align: center;
+}
+
+.pic4 {
+  text-align: center;
+}
+
+.pic5 {
+  text-align: center;
+}
+.cap1 {
+  color: grey
+}
+.cap2 {
+  color: grey
+}
+.cap3 {
+  color: grey
+}
+/* I am finally done */
+
+blockquote {
+font: 32px/24px normal helvetica, sans-serif;
+font-style: italic;
+margin:0;auto:0;
+color: red;
+margin-left: 50px
+padding-left: 15px;
+border-left: 4px solid #ccc;
+text-align: center;
 }
