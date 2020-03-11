@@ -1,0 +1,18 @@
+h1 {
+  font-size: 36px;
+  color: #33485e;
+}
+font-family: 'PT Serif Caption', serif;
+font-family: 'Noto Serif JP', serif;
+
+h13 {
+  font-family: PT Serif Caption, serif;
+}
+
+h14 {
+  font-family: Noto Serif JP, serif;
+}
+
+#one {
+  background-color: #B3BFFE; width: 100px; height:100px;
+}
