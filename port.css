@@ -2,7 +2,7 @@ h1 {
   font-size: 36px;
   color: #33485e; margin: 0 auto;
 font-family: 'PT Serif Caption', serif;
-font-family: 'Noto Serif JP', serif;
+font-family: 'Noto Serif JP', serif; background-color:#B3BFFE;text-align: center;
 
 h13 {
   font-family: PT Serif Caption, serif;
@@ -37,5 +37,9 @@ h14 {
 }
 
 #pic {
-  text-align: center; transform: rotate(90deg);
+transform: rotate(90deg);text-align: center; height: 30px; width: 30px;
+}
+
+#socialmedia {
+  display: inline
 }
