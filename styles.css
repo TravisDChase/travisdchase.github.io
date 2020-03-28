@@ -1,15 +1,22 @@
-<h1> {
-font-family: helvetica,sans-serif;
+* {
+  margin: 0;
+  padding: 0;
+}
+.work {
+  text-align: center;
+}
+h1 {
+font-family: helvetica,sans-serif;text-align: center;
 }
 
 h5 {
-font-family: helvetica;font-size: 14pt;font-style: italic;
+font-family: helvetica;font-size: 14pt;font-style: italic;text-align: center;
 }
 h6 {
 font-family: helvetica;font-size: 14pt;font-style: italic;
 }
 
-<p> {
+p {
 font-family: georgia, serif font-size: 13px;
 }
 #content {
@@ -20,4 +27,8 @@ font-family: georgia, serif font-size: 13px;
 blockquote {
   font size: 16px; font-style: italic; font-family: helvetica, sans-serif;
   margin-top: 15px; margin-bottom: 15px; color: red; margin-left: 50px; padding-left: 15px;border-left: 4px solid #ccc;
+}
+
+<h1> {
+  font-size: 90%; 
 }
