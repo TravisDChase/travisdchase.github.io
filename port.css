@@ -1,7 +1,6 @@
 h1 {
   font-size: 36px;
-  color: #33485e;
-}
+  color: #33485e; margin: 0 auto;
 font-family: 'PT Serif Caption', serif;
 font-family: 'Noto Serif JP', serif;
 
@@ -35,4 +34,8 @@ h14 {
 
 #work {
   font-size: 30px;
+}
+
+#pic {
+  text-align: center; transform: rotate(90deg);
 }
