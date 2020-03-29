@@ -2,7 +2,11 @@ h1 {
   font-size: 32px;
   color: #33485e; margin: 0 auto;
 font-family: 'PT Serif Caption', serif;
-font-family: 'Noto Serif JP', serif; background-color:#B3BFFE;
+font-family: 'Noto Serif JP', serif; background-color:#B3BFFE; text-align: center;}
+
+h25 {
+   flex-direction: row;
+}
 
 h13 {
   font-family: PT Serif Caption, serif;
@@ -36,9 +40,6 @@ h14 {
   font-size: 30px;
 }
 
-.pic div {
-  float: right;
-}
-h25 {
-  text-align: center;
+.pic {
+    text-align: center;
 }
