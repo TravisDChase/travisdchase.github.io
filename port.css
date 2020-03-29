@@ -56,7 +56,7 @@ li{
   list-s;tyle-type: none; display: inline; margin: 0 2vw; font-size: 3vh
 }
 a {
-  text-decoration: none; color: black; padding: 2vw; font-family: monospace;
+  text-decoration: none; color: black; padding: 2vw; font-family: 'PT Serif Caption', serif;
 }
 nav {
   width: 100vw;background-color: #D6EFFF;
@@ -71,8 +71,8 @@ a: hover{
 }
 
 .navi {
-  margin: 0;padding: 0; display: flex;background-color: #D6EFFF; 
+  margin: 0;padding: 0; display: flex;background-color: #D6EFFF;
 }
 .socials {
-  margin: 0;padding: 0; display: flex;background-color: #D6EFFF; float: right;width: 72%
+  margin: 0;padding: 0; display: flex;background-color: #D6EFFF; float: right;width: 72%;font-family: 'PT Serif Caption', serif;width: 100vw;
 }
