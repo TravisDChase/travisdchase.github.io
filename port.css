@@ -1,8 +1,8 @@
 h1 {
   font-size: 32px;
-  color: #33485e; margin: 0 auto;
+  color: #D3D3D3; margin: 0 auto;
 font-family: 'PT Serif Caption', serif;
-font-family: 'Noto Serif JP', serif; background-color:#B3BFFE; text-align: center;}
+font-family: 'Noto Serif JP', serif; background-color:#33485e; text-align: center;height: 42px;}
 
 h25 {
    flex-direction: row;
@@ -53,26 +53,15 @@ h14 {
 }
 
 li{
-  list-s;tyle-type: none; display: inline; margin: 0 2vw; font-size: 3vh
+  list-style-type: none; display: inline; margin: 0 7vw; font-size: 3vh;
 }
 a {
-  text-decoration: none; color: black; padding: 2vw; font-family: 'PT Serif Caption', serif;
+  text-decoration: none; color: #D3D3D3; padding: 2vw; font-family: 'PT Serif Caption', serif;
 }
 nav {
-  width: 100vw;background-color: #D6EFFF;
+  width: 100vw;background-color: #33485e;
 }
 
 body {
-  margin: 0;
-}
-
-a: hover{
-  background-color: #C6E9FF;
-}
-
-.navi {
-  margin: 0;padding: 0; display: flex;background-color: #D6EFFF;
-}
-.socials {
-  margin: 0;padding: 0; display: flex;background-color: #D6EFFF; float: right;width: 72%;font-family: 'PT Serif Caption', serif;width: 100vw;
+  margin: 0;background-color: 	#D3D3D3;
 }
