@@ -36,9 +36,6 @@ h14 {
   font-size: 30px;
 }
 
-.pic div {
+.pic {
   float: right;
-}
-h25 {
-  text-align: center;
 }
