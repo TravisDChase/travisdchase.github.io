@@ -108,3 +108,24 @@ p {
 .dsw2 {
   border-style: solid;border-color: #33485e; font-size: 25px;
 }
+.education {
+  text-align: center; font-size: 25px; display: inline;
+}
+#edu1 {
+  text-align: center; font-size: 25px;
+}
+#adobe {
+  text-align: center; font-size: 25px;
+}
+#stand {
+  text-align: center; font-size: 25px;
+}
+#shoot {
+  text-align: center; font-size: 25px;
+}
+#dslr {
+  text-align: center; font-size: 25px;
+}
+#int {
+  text-align: center; font-size: 25px;
+}
