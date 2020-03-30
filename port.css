@@ -1,6 +1,6 @@
 h1 {
-  font-size: 32px;
-  color: #D3D3D3; margin: 0 auto;
+  font-size: 25px;
+  color: #F9E4B7; margin: 0 auto;
 font-family: 'PT Serif Caption', serif;
 font-family: 'Noto Serif JP', serif; background-color:#33485e; text-align: center;height: 42px;}
 
@@ -53,10 +53,10 @@ h14 {
 }
 
 li{
-  list-style-type: none; display: inline; margin: 0 7vw; font-size: 3vh;
+  list-style-type: none; display: inline; margin: 0 7vw; font-size: 3vh; text-align: center;
 }
 a {
-  text-decoration: none; color: #D3D3D3; padding: 2vw; font-family: 'PT Serif Caption', serif;
+  text-decoration: none; color: #F9E4B7; padding: 2vw; font-family: 'PT Serif Caption', serif;
 }
 nav {
   width: 100vw;background-color: #33485e;
@@ -64,4 +64,47 @@ nav {
 
 body {
   margin: 0;background-color: 	#D3D3D3;
+}
+.intro {
+  text-align: center; margin: 0 auto; font-size: 25px;
+}
+.built {
+  text-align: center; margin: 0 auto; font-size: 35px; font-weight: bold;
+}
+
+.work {
+  font-size: 25px; text-align: center;
+}
+.exp {
+  font-size: 35px; text-align: center; border-style: solid;border-color: #33485e;
+}
+p {
+  text-align: center;
+}
+.fed {
+  text-align: center; font-size: 35px;border-style: solid;border-color: #33485e;
+}
+.dsw {
+  text-align: center; font-size: 27px;border-style: solid;border-color: #33485e;
+}
+.edu {
+  text-align: center; font-size: 27px;border-style: solid;border-color: #33485e;
+}
+.ski {
+  text-align: center; font-size: 27px;border-style: solid;border-color: #33485e;
+}
+#boxski {
+  border-style: inset; border-color: #33485e;
+}
+#builtintro {
+  border-style: solid; border-color: #33485e;
+}
+#Work {
+    font-size: 25px; border-style: solid;border-color: #33485e;
+}
+.fed2 {
+   border-style: solid;border-color: #33485e; font-size: 25px;
+}
+.dsw2 {
+  border-style: solid;border-color: #33485e; font-size: 25px;
 }
