@@ -1,10 +1,10 @@
 h1 {font-size: 32px;
-color: #33485e; margin: 0 auto;
+color: #F9E4B7; margin: 0 auto;
 font-family: 'PT Serif Caption', serif;
-font-family: 'Noto Serif JP', serif; background-color:#B3BFFE; text-align: center;}
+font-family: 'Noto Serif JP', serif; background-color:#33485e; text-align: center;}
 
 li{
-  list-style-type: none; display: inline; margin: 0 7vw; font-size: 3vh;
+  list-style-type: none; display: inline; margin: 0 7vw; font-size: 3vh;background-color:#33485e;
 }
 a {
   text-decoration: none; color: #F9E4B7; padding: 2vw; font-family: 'PT Serif Caption', serif;
@@ -14,9 +14,12 @@ nav {
 }
 
 body {
-  margin: 0;
+  margin: 0;background-color: #D3D3D3;
 }
 
 a: hover{
   background-color: #C6E9FF;
+}
+p {
+  text-align: center; font-size: 25px;border-style: solid;border-color: #33485e;
 }
