@@ -1,0 +1,41 @@
+h1 {
+  font-size: 32px;
+  color: #33485e; margin: 0 auto;
+font-family: 'PT Serif Caption', serif;
+font-family: 'Noto Serif JP', serif; background-color:#B3BFFE;
+
+h13 {
+  font-family: PT Serif Caption, serif;
+}
+
+h14 {
+  font-family: Noto Serif JP, serif;
+}
+
+#one {
+  background-color: #B3BFFE; width: 100px; height:100px;
+}
+
+#two {
+  background-color: #3B83F5; width: 100px; height: 100px;
+}
+
+#three {
+  background-color: #2AD6FF; width: 100px; height: 100px;
+}
+
+#four {
+  background-color: #2135EB; width: 100px; height: 100px;
+}
+
+#five {
+  background-color: #2CFFE3; width: 100px; height: 100px;
+}
+
+#work {
+  font-size: 30px;
+}
+
+.pic {
+  float: right;
+}
